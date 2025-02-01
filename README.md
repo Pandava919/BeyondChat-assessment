@@ -6,7 +6,7 @@ Create a chat application that allows users to send messages to each other. The 
 
 - User registration: Users should be able to register and create an account.
 - User login: Users should be able to log in to their account.
-- User can enter the website and see a list of websites.
+- User can enter the website and see a list of websites.  
 -User can integrate chatbot into their website.
 - User can integrate chatbots.
 
