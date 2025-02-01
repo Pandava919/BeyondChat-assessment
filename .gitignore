@@ -13,9 +13,10 @@ node_modules
 #Environment
 .env
 
-#Config files
 
-authConfig
+# Ignore authconfig.js file
+authconfig.js
+
 
 #dist
 dist
