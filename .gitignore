@@ -13,8 +13,9 @@ node_modules
 #Environment
 .env
 
-#Congig
-authConfig.js
+#Config files
+
+authConfig
 
 #dist
 dist
