@@ -17,3 +17,11 @@ Create a chat application that allows users to send messages to each other. The 
 - The application should have a user-friendly interface.
 - The application should be easy to use and navigate.
 
+##Submission
+
+deploy url: https://melodic-rabanadas-34b2d4.netlify.app/
+
+Static otp is : 123456
+
+Sorry for this inconvinience as of now the google sign in is not working. because of client id is in .env file.
+
