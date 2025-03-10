@@ -82,7 +82,7 @@ function ChatbotIntegration({ organization }) {
                 </div>
                 {showInstuctions &&
                     <div className=' w-full mt-7 sm:mt-0'>
-                        <h3 className='text-black dark:text-white text-3xl mb-2 font-bold'>Instuctions to Integrete</h3>
+                        <h3 className='text-black dark:text-white text-3xl mb-2 font-bold'>Instructions to Integrete</h3>
                         <ol className='list-decimal text-black dark:text-white flex flex-col gap-1 ml-6'>
                             <li>Open your website’s HTML file.</li>
                             <li>Locate the {"<head>"} section.</li>
